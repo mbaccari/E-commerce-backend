@@ -49,4 +49,4 @@ https://choosealicense.com/licenses/mit
 
 ## Demo
 
-![demo]url(demo.gif)
+![demo](demo.gif)
